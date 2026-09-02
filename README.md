@@ -7,7 +7,6 @@
 I build production mobile and web products used by real customers — from consumer apps with 100K+ downloads to AI automotive platforms and complete restaurant ordering systems.
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/7VSOMVAX3XSGF1)
-[![MehmoodTech](https://img.shields.io/badge/Agency-MehmoodTech-black?style=for-the-badge)](https://mehmoodtech.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AhsinMehmood-181717?style=for-the-badge&logo=github)](https://github.com/AhsinMehmood)
 
 </div>
@@ -16,13 +15,11 @@ I build production mobile and web products used by real customers — from consu
 
 ## 👋 About Me
 
-I'm a senior software engineer from Pakistan focused on building reliable products from idea to production.
+I'm a senior software engineer from Pakistan focused on building, scaling, and maintaining real-world products from idea to production.
 
 My core stack is **Flutter + Firebase** for mobile products, with **Next.js + Supabase** for modern web and AI SaaS platforms.
 
-I work across product architecture, UI/UX implementation, backend integrations, payments, real-time systems, AI features, deployment, and production support.
-
-I'm also the **owner of [MehmoodTech](https://mehmoodtech.com)**, a software development agency focused on mobile apps, web platforms, AI products, and custom business software.
+I work across product architecture, UI/UX implementation, backend integrations, payments, real-time systems, AI features, deployment, release engineering, and production support.
 
 **Building software professionally since 2017.**
 
@@ -92,8 +89,6 @@ Orders move in real time from checkout → kitchen preparation → rider deliver
 
 **Tech:** `Flutter` `Firebase` `Stripe` `Web`
 
-🌐 [Case Study](https://mehmoodtech.com/projects/sugar-goat-cafe-phuket)
-
 ---
 
 ### 🔧 RepairIQ.chat — AI Front Desk for Auto Repair Businesses
@@ -145,7 +140,7 @@ Some public repositories:
 
 ## 💼 What I Build
 
-I am strongest on projects that need more than just screens:
+I am strongest on products that need more than just screens:
 
 - Production Flutter applications
 - Firebase / Supabase architecture
@@ -160,17 +155,9 @@ I am strongest on projects that need more than just screens:
 
 ---
 
-## 🏢 MehmoodTech
-
-I own **[MehmoodTech](https://mehmoodtech.com)**, my software development agency for businesses that need custom mobile apps, web platforms, AI solutions, and end-to-end product development.
-
-MehmoodTech is my agency website — this GitHub profile is my personal engineering portfolio and selected work history.
-
----
-
 ## 🤝 Work With Me
 
-For freelance work, consulting, product development, partnerships, or project inquiries, contact me directly on WhatsApp.
+For freelance work, consulting, product development, technical leadership, partnerships, or project inquiries, contact me directly on WhatsApp.
 
 ### 💬 [Message me on WhatsApp](https://wa.me/message/7VSOMVAX3XSGF1)
 
