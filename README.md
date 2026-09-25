@@ -91,22 +91,6 @@ Orders move in real time from checkout → kitchen preparation → rider deliver
 
 ---
 
-### 🔧 RepairIQ.chat — AI Front Desk for Auto Repair Businesses
-
-**150+ businesses onboarded**
-
-An AI-powered customer conversion platform built for mechanics, garages, detailing shops, wrap specialists, and automotive service businesses.
-
-RepairIQ turns a traditional automotive website into an intelligent front desk that can engage visitors, understand vehicle/service requirements, capture leads, produce estimates, assist with bookings, and automate customer follow-up workflows.
-
-**My work:** Product design and architecture, full-stack development, AI workflows, multi-tenant business tooling, onboarding systems, and production deployment.
-
-**Tech:** `Next.js` `TypeScript` `Supabase` `PostgreSQL` `AI` `Stripe`
-
-🌐 [repairiq.chat](https://www.repairiq.chat/)
-
----
-
 ## 🛠 Core Stack
 
 ### Mobile
