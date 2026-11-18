@@ -36,7 +36,6 @@ A branded restaurant ordering demo.
 
 Public architecture templates and product work:
 
-- [mechanicos](https://github.com/AhsinMehmood/mechanicos) — Chat-first shop OS for automotive service providers (VEHYPE)
 - [flutter_firebase_scalable_app](https://github.com/AhsinMehmood/flutter_firebase_scalable_app) — Flutter + Firebase app with Clean Architecture and Bloc
 - [flutter_clean_architecture_provider](https://github.com/AhsinMehmood/flutter_clean_architecture_provider) — Flutter Clean Architecture template (Provider + GetIt)
 
